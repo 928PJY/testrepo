@@ -25,4 +25,13 @@ Section Definition
 > <js code text>
 > ```
 
+Code Snippet
+===============
+[!code-csharp[Main](Program.cs)]
 
+Note
+===============
+> [!NOTE]
+> <note content>
+> [!WARNING]
+> <warning content>
