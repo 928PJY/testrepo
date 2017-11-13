@@ -14,7 +14,19 @@
           "LICENSE-CODE",
           "ThirdPartyNotices"
         ]
-      }
+      },
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "src": "crrForTest/crrsource/",
+        "dest": "test",
+        "exclude": [
+          "README.md",
+          "LICENSE.md",
+          "**/includes/**"
+        ]
+      },
     ],
     "resource": [
       {
