@@ -11,11 +11,6 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
-    },
-    {
-      "path_to_root": "crrForTest",
-      "url": "https://github.com/928PJY/CRRForTest",
-      "branch": "crrtest"
     }
   ],
   "branch_target_mapping": {},
